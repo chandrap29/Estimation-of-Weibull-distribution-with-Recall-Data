@@ -4,8 +4,9 @@
 ## README accompanying the publication
 ##
 ##   A latent variable approach for parametric modeling of recall-based time-to-event data
-##
 ##   by M. S. Panwar, Vikas Barnwal and C. P. Yadav.
+##   DOI: 10.1007/s00180-023-01444-3
+##   Journal Name: Computational Statistics, Springer 
 ##
 ## Corresponding author: C. P. Yadav <chandraprakashy29@gmail.com>
 ## Author of the code: Vikas Barnwal and C. P. Yadav
