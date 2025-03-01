@@ -305,7 +305,7 @@
     #                        Bayesian Estimation                        #
     #                                                                   #
     #===================================================================#  
-    aaa=ccc=eee=1;bbb=ddd=fff=0 #setting the hyper-parameters for making non-informative
+    aaa=ccc=eee=1;bbb=ddd=fff=0.0001 #setting the hyper-parameters for making non-informative
     b.thh1=b.thh2=b.thh3=rep()
     b.th1=b.th2=b.th3=rep()
     b.th1=ml[1];b.th2=ml[2];b.th3=ml[3]  #initialize values as MLE
