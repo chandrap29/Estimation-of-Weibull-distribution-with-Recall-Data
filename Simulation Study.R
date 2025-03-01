@@ -277,7 +277,7 @@
       #                        Bayesian Estimation                        #
       #                                                                   #
       #===================================================================#  
-      aaa=ccc=eee=1.5;bbb=aaa/alp1;ddd=ccc/bet1;fff=eee/lmd1 #Setting the Hyper-Parameters based on Moment Matching Criteria
+      aaa=ccc=eee=1.0;bbb=ddd=fff=0.001 #Setting the Hyper-Parameters based on Moment Matching Criteria
       b.thh1=b.thh2=b.thh3=rep()
       b.th1=alp1;b.th2=bet1;b.th3=lmd1
       it1=100000    #number of iteration 
